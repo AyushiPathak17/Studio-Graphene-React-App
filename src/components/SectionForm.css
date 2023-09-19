@@ -1,0 +1,75 @@
+.frame-child {
+  position: absolute;
+  top: 13.48rem;
+  left: 27.94rem;
+  background-color: var(--pimary-colour);
+  width: 62.06rem;
+  height: 22.14rem;
+}
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 63.19rem;
+  width: 22.94rem;
+  height: 23.22rem;
+}
+.jessica-radanavong-ichpbhfd0pw-icon {
+  position: absolute;
+  top: 0.25rem;
+  left: 56.19rem;
+  width: 27rem;
+  height: 40.93rem;
+  object-fit: cover;
+}
+.frame-inner {
+  position: absolute;
+  top: 13.48rem;
+  left: 27.94rem;
+  background-color: var(--pimary-colour);
+  width: 62.06rem;
+  height: 22.14rem;
+  opacity: 0.2;
+}
+.star-icon {
+  position: absolute;
+  top: 30.75rem;
+  left: 59rem;
+  width: 4rem;
+  height: 5.57rem;
+}
+.div1,
+.oregon-jacket {
+  position: absolute;
+  left: 81.25rem;
+  display: inline-block;
+  height: 1.01rem;
+}
+.oregon-jacket {
+  top: 30.37rem;
+  text-transform: uppercase;
+  width: 7.31rem;
+}
+.div1 {
+  top: 33rem;
+  width: 1.94rem;
+}
+.frame-child1 {
+  position: absolute;
+  top: 33.5rem;
+  left: -0.03rem;
+  border-top: 1px solid var(--grey-scale-000);
+  box-sizing: border-box;
+  width: 61.06rem;
+  height: 0.06rem;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 7.94rem;
+  left: 0;
+  width: 90rem;
+  height: 41.19rem;
+  text-align: left;
+  font-size: var(--body-text-14-size);
+  color: var(--color-gray-100);
+  font-family: var(--body-text-18);
+}
